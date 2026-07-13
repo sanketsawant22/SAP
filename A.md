@@ -1,4 +1,3 @@
----
 
 # 1. Sales Document Type → VOV8 ⭐⭐⭐⭐⭐
 
