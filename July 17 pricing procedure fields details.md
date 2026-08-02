@@ -533,15 +533,15 @@ V/06
 
 ↓
 
-Open PR00
+Open Main condition type
 
 ↓
 
-Maintain Condition Supplement
+Below it assign pricing procedure
 
 ↓
 
-Add PK00
+save
 ```
 
 ---
